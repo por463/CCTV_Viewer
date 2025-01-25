@@ -60,8 +60,8 @@
 
     <Preference
         android:key="about"
-        android:title="电视浏览器"
-        android:summary="一个电视机顶盒及Android TV收看网页视频的浏览器 " />
+        android:title="mini 直播"
+        android:summary="小六科技修改版" />
 
     <Preference
         android:key="version"
