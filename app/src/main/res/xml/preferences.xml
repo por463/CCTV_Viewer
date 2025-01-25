@@ -61,7 +61,7 @@
     <Preference
         android:key="about"
         android:title="mini 直播"
-        android:summary="小六科技修改版" />
+        android:summary="小六科技修改版 " />
 
     <Preference
         android:key="version"
